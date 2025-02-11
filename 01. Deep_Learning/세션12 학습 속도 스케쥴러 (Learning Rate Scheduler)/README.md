@@ -1,3 +1,3 @@
 # 학습속도 스케줄러
 
-![image](https://github.com/user-attachments/assets/a74ab7e4-edf6-4d4b-8cbb-841336f9191b)
+![image](https://github.com/user-attachments/assets/6897e237-0137-41da-8a5e-b83981742499)
