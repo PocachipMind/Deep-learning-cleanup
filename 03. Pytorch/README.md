@@ -6,5 +6,7 @@ https://www.youngjin.com/reader/pds/pds.asp
 
 ## 구현 코드
 ### 알렉스넷 
-CNN - AlexNet.ipynb
+6.2 CNN - AlexNet.ipynb
 
+### 레
+6.3 CNN - ReNet.ipynb
