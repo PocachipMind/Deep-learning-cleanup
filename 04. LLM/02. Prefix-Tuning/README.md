@@ -103,3 +103,5 @@ prefix_model.print_trainable_parameters()
 - 기존 모델의 모든 가중치를 학습하는 대신, "Trainable Prefix"만 학습하여 성능을 최적화한다.
 - Full Fine-Tuning보다 메모리 사용량이 적고, 학습 속도가 빠르며, 여러 태스크를 하나의 모델에서 수행 가능하다.
 - Prompt-Tuning과 다르게, Prefix-Tuning은 학습 가능한 벡터를 사용하여 보다 강력한 조정이 가능하다.
+
+RAG + Prefix-Tuning을 함께 사용하면 Retrieval에 따라 LLM을 더 효과적으로 조정할 수도 있다.
