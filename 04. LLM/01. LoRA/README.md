@@ -80,6 +80,22 @@ lora_model = get_peft_model(model, lora_config)
 lora_model.print_trainable_parameters()
 
 ```
+## 6. 사례
+- LLM Fine-Tuning
+
+GPT-3, LLaMA 같은 대형 모델을 효율적으로 미세 조정 가능
+
+- 챗봇(Custom Chatbot)
+
+특정 도메인(법률, 의료, 금융 등) 특화 챗봇을 만들 때 유용
+
+- 멀티 태스크 모델 (Multi-task Model)
+
+하나의 LLM에 여러 LoRA 어댑터를 적용하여 다양한 작업 수행 가능
+
+-경량 모델 배포
+
+LoRA를 사용하면 전체 모델을 새로 학습하지 않고, 작은 LoRA 모듈만 로드하여 빠르게 배포 가능
 
 ## 정리
 
