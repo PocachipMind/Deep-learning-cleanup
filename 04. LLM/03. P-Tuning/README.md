@@ -59,9 +59,9 @@ P-Tuning에서는 사람이 직접 프롬프트를 입력할 필요 없이, 모�
 |방식|학습 대상|메모리 사용량|학습 속도|사용 방식|
 |------|---|---|---|---|
 |Full Fine-Tuning|모델 전체 가중치|많음|느림|새로운 모델 저장 필요|
-|LoRA|특정 레이어의 일부 행렬|많음|빠름|Plug-and-Play 가능|
-|Prefix-Tuning|Transformer 내부 Prefix 벡터|많음|빠름|Input에 Prefix 추가|
-|P-Tuning|입력 프롬프트 벡터(Trainable Embedding)|매우 적음|매우 빠름|롬프트 최적화|
+|LoRA|특정 레이어의 일부 행렬|중간|빠름|Plug-and-Play 가능|
+|Prefix-Tuning|Transformer 내부 Prefix 벡터|적음|빠름|Input에 Prefix 추가|
+|P-Tuning|입력 프롬프트 벡터(Trainable Embedding)|매우 적음|매우 빠름|프롬프트 최적화|
 
 P-Tuning은 가장 적은 메모리로도 효과적인 Fine-Tuning이 가능
 
