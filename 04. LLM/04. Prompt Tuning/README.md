@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/434e27ed-1351-4b97-8593-8a1ba59eddb5)
 
+런에이블한 임베딩 벡터를 어떻게 초기 이니셜라이제이션 할 것인지, 임베딩 벡터 개수를 몇개로 할 것인지.
+
+프롬프트 튜닝의 디자인 이슈
+
 ## Prompt Tuning이란?
 
 Prompt Tuning은 대규모 언어 모델(LLM)을 효율적으로 미세 조정(Fine-Tuning)하는 방법 중 하나.
