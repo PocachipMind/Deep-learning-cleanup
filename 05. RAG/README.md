@@ -13,3 +13,6 @@ https://github.com/jasonkang14/inflearn-rag-notebook
 
 https://github.com/jasonkang14/inflearn-streamlit-lecture
 
+# 팁
+
+업스테이지 임베딩이 한국어는 더 잘되는 경향이 있다.
