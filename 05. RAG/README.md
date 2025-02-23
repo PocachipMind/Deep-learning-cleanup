@@ -38,3 +38,10 @@ https://github.com/jasonkang14/inflearn-streamlit-lecture
 {}
 
 question: {}
+
+---------------------
+
+유사도 : 
+- 유클리디안 : 거리
+- dot product : 클수록 유사하다
+- cosine : 벡터사이 각도 
