@@ -30,5 +30,11 @@ https://github.com/jasonkang14/inflearn-streamlit-lecture
 
 페르소나를 주면 성능이 올라가는 경우가 많다. 
 
-[ Identity ]
+[Identity]
 - 당신은 최고의 ...전문가입니다...
+- [Context]를 참고해서 사용자의 질문에 답변해주세요.
+
+[Context]
+{}
+
+question: {}
