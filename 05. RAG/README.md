@@ -13,6 +13,11 @@ https://github.com/jasonkang14/inflearn-rag-notebook
 
 https://github.com/jasonkang14/inflearn-streamlit-lecture
 
-# 팁
+# 메모
 
 업스테이지 임베딩이 한국어는 더 잘되는 경향이 있다.
+
+-----------------
+텍스트 스플리터는 다양한데, 일반적으로 문서는 Recursive Character Text Splitter나 Character Text Splitter를 많이씀
+
+차이점 : Character Text Splitter는 구분자를 하나밖에 못 넣음 그래서 두줄 띄어있는거 단위로 잘라버리는데 Recursive 경우는 리스트로 구분자를 줄 수 있음. 그래서 Recursive 로 하시는게 더 성능이 좋다.
