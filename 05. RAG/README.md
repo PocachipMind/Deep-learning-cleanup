@@ -25,3 +25,10 @@ https://github.com/jasonkang14/inflearn-streamlit-lecture
 -----------------
 
 질문할 때 Please 즉 존대말로 하면 성능이 좋다는 논문이있음. 존대말로 질문할것.
+
+---------------
+
+페르소나를 주면 성능이 올라가는 경우가 많다. 
+
+[ Identity ]
+- 당신은 최고의 ...전문가입니다...
