@@ -9,6 +9,11 @@ https://github.com/jasonkang14/inflearn-rag-notebook
 
 고로 올려진 자료를 그대로 보는 것 보단 나 스스로가 다시 볼 때 유용하게 재정리하여 기재한 Git.
 
+
+https://python.langchain.com/api_reference/langchain/chains/langchain.chains.retrieval_qa.base.RetrievalQA.html
+
+4.3의 QA가 더이상 안쓰인다고 한다.
+
 # Chat App 관련
 
 https://github.com/jasonkang14/inflearn-streamlit-lecture
