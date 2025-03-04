@@ -2,4 +2,5 @@
 
 ![image](https://github.com/user-attachments/assets/3e557946-a51f-4614-81e0-c421882dada1)
 
+## 해당 책 Git
 https://github.com/Kane0002/Langchain-RAG
