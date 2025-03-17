@@ -7,3 +7,12 @@ https://www.inflearn.com/course/딥러닝-컴퓨터비전-완벽가이드
 실습 예제 코드 :
 
 https://github.com/chulminkw/DLCV_New
+
+
+> 추후 다시 볼 주요 코드
+
+S3 . 
+- Pascal VOC 데이터 세트
+- MS COCO 데이터 세트
+- OpenCV 비디오 및 이미지 처리
+
