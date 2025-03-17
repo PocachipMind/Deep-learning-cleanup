@@ -15,4 +15,9 @@ https://github.com/chulminkw/DLCV_New
 - Pascal VOC 데이터 세트
 - MS COCO 데이터 세트
 - OpenCV 비디오 및 이미지 처리
+https://github.com/chulminkw/DLCV_New/tree/main/preliminary
 
+
+### S4 . 
+- Faster rcnn 을 OpenCV로활용
+  https://github.com/chulminkw/DLCV_New/blob/main/faster_rcnn/opencv_faster_rcnn_inference.ipynb
