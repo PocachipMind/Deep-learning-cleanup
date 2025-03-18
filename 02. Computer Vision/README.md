@@ -23,3 +23,10 @@ https://github.com/chulminkw/DLCV_New/tree/main/preliminary
 - Faster rcnn 을 OpenCV로활용
 
 https://github.com/chulminkw/DLCV_New/blob/main/faster_rcnn/opencv_faster_rcnn_inference.ipynb
+
+### S5 . 
+- MMdetection Fast RCNN
+  
+Kitty data로 학습시키기
+
+https://github.com/chulminkw/DLCV_New/blob/main/faster_rcnn/mm_faster_rcnn_train_kitti.ipynb
