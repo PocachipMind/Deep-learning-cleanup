@@ -2,9 +2,9 @@
 
 실무에서 도움이 될만한 인공지능 구현 코드에 집중하여 재정리합니다.
 
-## 실무에 도움이 될만한 메모 노트
+# 실무에 도움이 될만한 메모 노트
 
-### https://paperswithcode.com/sota
+## https://paperswithcode.com/sota
 
 해당 사이트는 원하는 분야의 딥러닝 모델을 찾는데 특화된 사이트입니다.
 
@@ -26,6 +26,6 @@ https://arxiv.org/pdf/2201.01426v1
 https://github.com/urmagicsmine/cspr
 
 
-### https://portal.gdc.cancer.gov/
+## https://portal.gdc.cancer.gov/
 
 NIH에서 학습 데이터 수집
