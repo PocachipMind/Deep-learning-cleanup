@@ -1,5 +1,8 @@
 # RAG 관련
 
+![image](https://github.com/user-attachments/assets/78d2b272-6fbb-46fc-a788-5ae43b07d5d6)
+
+
 공식 강의 자료 :
 
 https://github.com/jasonkang14/inflearn-rag-notebook
