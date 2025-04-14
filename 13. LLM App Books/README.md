@@ -10,12 +10,9 @@ https://github.com/wikibook/langchain-rag
 https://wikibook.co.kr/langchain-rag/
 
 ## 주요 학습 내용
-- 랭체임
-    
+- 랭체인
     - 병렬처리 체인
-    
     - 프롬프트 사용 방법
-    
 
 - Advanced Rag
     - 리랭커 : BM25, TF-IDF
@@ -38,18 +35,28 @@ https://wikibook.co.kr/langchain-rag/
         - Cross-Attention : 모달리티 간 상호작용 강화
     - 파인튜닝
 
->> MultiVectorRetriever 활용 멀티모달 RAG : 이미지를 의미하는 텍스트 형성 후 VectorDB에 저장 하여 RAG 실행
+- MultiVectorRetriever 활용 멀티모달 RAG : 이미지를 의미하는 텍스트 형성 후 VectorDB에 저장 하여 RAG 실행
 
 - GraphRAG
     - 자연어 쿼리를 통한 그래프 데이터 조회 및 조작
     - LLM 기반 지식 그래프 구축 및 RAG ( Neo4j AuraDB )
 
->> pdf로부터 텍스트 추출하고 그걸 기반으로 그래프 DB 생성, 그래프 리트리버 및 백터 리트리버 실행
+- pdf로부터 텍스트 추출하고 그걸 기반으로 그래프 DB 생성, 그래프 리트리버 및 백터 리트리버 실행
 
 - ReAct 에이전트
     - 해당 부분 많이 아쉬움. 추상화되어있는 프레임워크사용이아닌 함수를 연결하여 구성.
     - 해당 부분은 인프런의 랭그래프 강의를 통해 보충.
 
 - sLLM
-    - FFT : Full Fine-Tuning
+    - 특정 pdf를 기반으로 파인튜닝 학습 데이터 구성
+    - FFT ( Full Fine-Tuning )
         - 병렬 처리 학습 : DP, DDP, FSDP
+        - DeepSpeed
+    - PEFT ( Parameter-Efficient Fine-Tuning )
+        - QLoRA
+        - DoRA
+    - RAG 기반 LLM 최적화 학습
+        - RAFT - 핵심 : 출처 표기 , CoT
+    - LLM 서빙
+        - Streamlit
+        - vLLM
