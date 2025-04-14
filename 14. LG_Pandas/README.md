@@ -1,5 +1,5 @@
 # LangGraph Pandas 인프런 강의
-![image](https://github.com/user-attachments/assets/02757da6-6cb7-4d12-9a43-3604a335fb31)
+![image](https://github.com/user-attachments/assets/cb3da73f-8403-4362-8799-deb50c516838)
 
 https://www.inflearn.com/course/ai에이전트-구현-rag시스템-랭그래프
 
