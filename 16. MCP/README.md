@@ -4,6 +4,6 @@
 
    https://github.com/weniv/mcp_book_source
 
-2. LangGraph :
+2. LangGraph 활용 :
 
    https://github.com/netschool-kr/langgraph-mcp
