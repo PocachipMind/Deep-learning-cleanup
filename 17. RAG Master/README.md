@@ -6,4 +6,4 @@
 
 https://github.com/langchain-kr/langchain-tutorial
 
-해당 코드를 책을 읽으며 학습할 때 일부 변수 등 코드를 이해하기 쉽게 하기위해 일부분 추가한 부분을 기재.
+해당 코드를 책을 읽으며 학습할 때 일부 변수 등 일부 변경한 것을 업로드
