@@ -2,4 +2,8 @@
 
 ![image](https://github.com/user-attachments/assets/8e0c228a-580d-442d-9f4d-bc9ca12981dc)
 
+원본 코드 :
+
 https://github.com/langchain-kr/langchain-tutorial
+
+해당 코드를 책을 읽으며 학습할 때 일부 변수 등 코드를 이해하기 쉽게 하기위해 일부분 추가한 부분을 기재.
