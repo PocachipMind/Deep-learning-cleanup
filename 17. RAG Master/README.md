@@ -6,4 +6,4 @@
 
 https://github.com/langchain-kr/langchain-tutorial
 
-해당 코드를 책을 읽으며 학습할 때 일부 변수 등 일부 변경한 것을 업로드
+해당 코드를 책을 읽으며 학습할 때 일부 변수 등 변경한 것을 업로드
