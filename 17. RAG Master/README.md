@@ -11,3 +11,4 @@ https://github.com/langchain-kr/langchain-tutorial
 
 ### 5강 : 그래프 래그의 경우 Pandas 인프런 강의를 수강할 예정이므로 간략한 코드 리뷰만 진행.
 ### 6,7 ( 면접 준비 ) 이후 추가 볼 예정 : 385 page 스트리밍 볼 차례 ( 본 이후 코드 기재 예정 )
+### 8,9 
