@@ -7,3 +7,6 @@
 https://github.com/langchain-kr/langchain-tutorial
 
 해당 코드를 책을 읽으며 학습할 때 일부 변수 등 변경한 것을 업로드
+
+
+### 5강 : 그래프 래그의 경우 Pandas 인프런 강의를 수강할 예정이므로 간략한 코드 리뷰만 진행.
