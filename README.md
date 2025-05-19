@@ -2,6 +2,14 @@
 
 실무에서 도움이 될만한 인공지능 구현 코드에 집중하여 재정리합니다.
 
+# noteworthy
+10. Finetuning
+
+13. LLM App Books
+
+17. RAG Master
+
+
 # 실무에 도움이 될만한 메모 노트
 
 ## https://paperswithcode.com/sota
