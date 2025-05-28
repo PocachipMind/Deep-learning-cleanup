@@ -6,6 +6,7 @@ https://fastcampus.co.kr/data_online_teddy
 
 **https://github.com/teddylee777/langchain-kr**
 
+**https://github.com/teddylee777/langserve_ollama**
 
 그 외 공부하며 추가된 자료 등은 저작권에 따라 비공개 레파토리에 코드 저장!
 
